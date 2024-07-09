@@ -1,3 +1,6 @@
 -- Virtual Environment 
 # python -m venv myenvname
 #  myenv1/Scripts/activate
+
+-- Upgrade Pip
+python -m pip install --upgrade pip
